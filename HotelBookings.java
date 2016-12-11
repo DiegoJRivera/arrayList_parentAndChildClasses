@@ -1,7 +1,7 @@
 /*
  * Practical Exercise 5 developed by Diego Rivera for Programming Fundamentals class.
  * 09/09/2016
- * Professor Rachel Jeikishore
+ * Professor: ----------
  * HotelBookings aplication allows the creation of the different hotel objects.
  * Objects created are to be added to an ArrayList called "hotel".
  * There is menu system that allows to the user select the type of room followed

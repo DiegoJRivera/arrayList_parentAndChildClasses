@@ -1,7 +1,6 @@
 /*
  * Practical Exercise 5 developed by Diego Rivera for Programming Fundamentals class.
  * 09/09/2016
- * Professor ------------
  * Suite child class extends from HotelRoom parent class.
  */
 package practicalexercise5;
